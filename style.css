@@ -1,0 +1,32 @@
+body
+{
+	padding: 0;
+	margin:0px 0px 0px 0px;
+}
+.header
+{
+	width: 100%;
+	height:auto;
+	float: left;
+	background-color: ;
+}
+.slider
+{
+	height:auto;
+	width:100%;
+	float:left;
+	background-color: ;
+}
+.con
+{
+	height:auto;
+	width:100%;
+	float:left;
+	background-color: ;
+}
+.footer
+{
+	height:auto;
+	width:100%;
+	float: left;
+}
